@@ -1,3 +1,4 @@
+#@Author: Anqi Luo
 import learnhmm
 import numpy as np
 import time
